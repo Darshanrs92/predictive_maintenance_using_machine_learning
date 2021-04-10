@@ -1,4 +1,4 @@
-1.Introduction :
+1. Introduction :
 The increasing availability of data is helping the industries to effectively schedule the maintenance activities. Machine learning approaches are becoming effective in this area facilitated by the growing capabilities of hardware and cloud based solutions. Effective management of maintenance activities helps in reducing the downtime cost and maximizing equipment lifetime. Machine Learning based PDM can be divided into two categories, a. Supervised approach b. Unsupervised approach.
 a. Supervised approach :In this case, information about occurrence of failure event will be present in the dataset
 b. Unsupervised approach :In this case, information about occurrence of failure event will not present in the dataset.
@@ -63,8 +63,8 @@ In this work, for a given input, we are predicting whether machine will become f
 8. Results :
 F1- score obtained : 0.9986
 
-python code : please refer "final_knn_model.ipynb" for complete code with KNN
-
 9. References:
 https://www.appliedaicourse.com/
 https://www.kaggle.com/nphantawee/pump-sensor-data
+
+python code : please refer "final_knn_model.ipynb" for complete code with KNN
